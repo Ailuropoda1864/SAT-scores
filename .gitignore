@@ -90,9 +90,3 @@ ENV/
 
 # Rope project settings
 .ropeproject
-
-# directory containing big data files
-data/
-
-# No large dataset
-*.csv
