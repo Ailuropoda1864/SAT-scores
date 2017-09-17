@@ -46,8 +46,6 @@ For this project we will be using a Jupyter notebook. This notebook will use mat
 for plotting and visualizing our data. This type of visualization is handy for prototyping
 and quick data analysis. We will discuss more advanced data visualizations for disseminating your work.
 
-Open the [starter code instructions](./code/) in a Jupyter notebook.
-
 ### Dataset
 
 - [Dataset: SAT Scores](./data/sat_scores.csv)
@@ -89,11 +87,11 @@ Be sure to rehearse and time your presentation before class.
 
 Your instructors will score you using the scale below:
 
-    Score | Expectations
-    ----- | ------------
-    **0** | _Incomplete._
-    **1** | _Does not meet expectations._
-    **2** | _Meets expectations, good job!_
-    **3** | _Exceeds expectations, you wonderful creature, you!_
+   | Score | Expectations |
+  |  ----- | ------------ |
+ |   **0** | _Incomplete._ |
+  |  **1** | _Does not meet expectations._ |
+  |  **2** | _Meets expectations, good job!_ |
+  |  **3** | _Exceeds expectations, you wonderful creature, you!_ |
 
  This will serve as a helpful overall gauge of whether you met the project goals!
